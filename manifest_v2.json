@@ -1,0 +1,48 @@
+{
+  "item": {
+    "id": "979801016476",
+    "restype": "watchface",
+    "name": "荧光",
+    "description": "荧光表盘，搭载液态玻璃质感，支持 16 色切换与自定义壁纸，多组件自由组合排布。时间、运动目标、天气、睡眠等信息一目了然，简约界面兼顾实用与高级质感。\n官方交流群876535695",
+    "preview": [
+      "media/QQ20261019-132952.png",
+      "media/QQ20261019-133041.png",
+      "media/QQ20261019-134047.png",
+      "media/QQ20261019-134231.png",
+      "media/QQ20261019-134117.png"
+    ],
+    "icon": "media/表盘介绍与海报生成 (1)-06.png",
+    "cover": "media/表盘介绍与海报生成 (1)-05.png",
+    "author": [
+      {
+        "name": "MaoKe",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官方群",
+      "url": "https://qm.qq.com/q/lHCW3WJkgU",
+      "icon": "chats-circle"
+    },
+    {
+      "title": "爱发电购买",
+      "url": "https://afdian.com/item/b7445cd4c85d11f198735254001e7c00",
+      "icon": "link-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/萤光16色优化版新增网易云热评.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true,
+    "wallpaperGenerator": {
+      "configUrl": "https://raw.githubusercontent.com/AuthorMaoKe/astrobox-resource-979801016476/main/wallpaper/wallpaper.json"
+    }
+  }
+}
