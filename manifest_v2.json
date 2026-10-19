@@ -3,19 +3,20 @@
     "id": "979801016476",
     "restype": "watchface",
     "name": "荧光",
-    "description": "荧光表盘，搭载液态玻璃质感，支持 16 色切换与自定义壁纸，多组件自由组合排布。时间、运动目标、天气、睡眠等信息一目了然，简约界面兼顾实用与高级质感。\n官方交流群876535695",
+    "description": "荧光表盘，简约直观的运动健康风格，支持 16 色自定义色彩，液态玻璃，自由搭配多组件模块。超大清晰时间字体一眼读时，环形进度圈直观展示卡路里、步数、运动时长；心率、天气、睡眠时长分区呈现，信息排布清爽有序。随心切换主题色调，兼顾颜值与实用性，运动、日常通勤都适配，把你的各项健康状态清晰收纳在腕间。\n官方交流群876535695",
     "preview": [
       "media/QQ20261019-132952.png",
       "media/QQ20261019-133041.png",
       "media/QQ20261019-134047.png",
       "media/QQ20261019-134231.png",
-      "media/QQ20261019-134117.png"
+      "media/QQ20261019-134117.png",
+      "media/QQ20261020-004025.png"
     ],
     "icon": "media/表盘介绍与海报生成 (1)-06.png",
     "cover": "media/表盘介绍与海报生成 (1)-05.png",
     "author": [
       {
-        "name": "MaoKe",
+        "name": "bandbbs_73445",
         "bindABAccount": true
       }
     ]
@@ -40,9 +41,6 @@
     }
   },
   "ext": {
-    "enableAstroBoxCreatorFeatures": true,
-    "wallpaperGenerator": {
-      "configUrl": "https://raw.githubusercontent.com/AuthorMaoKe/astrobox-resource-979801016476/main/wallpaper/wallpaper.json"
-    }
+    "enableAstroBoxCreatorFeatures": true
   }
 }
